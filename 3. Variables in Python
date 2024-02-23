@@ -1,0 +1,35 @@
+Variables in Python :-
+Defination :-
+    (i) A variable is a name given to any storage area or memory location in a Python program.
+    (ii) Data or Values can be stored in temporary storage space called variable.
+    (iii) In simple words we can say that a variable is a container that contains some infomation and whenever we need that information we use the name of that container to access it.
+    (iv) Therefore, In order to declare variable there is no need of Datatypes so that's why we can say Python is Dynamically Typed Programming Language.
+    (v) Variable comes with 3 things that is Name of the variable, Value of the variable, Address of the variable.
+Example :-
+    a = 10
+To order a variable we have to follow the rules of identifier:- 
+  Rules to define identifiers :-
+    (i) Alphabet (either lower case[a-z] or upper case[A-Z])
+    (ii) Digits (0 to 9)
+    (iii) Underscore Symbol (_)
+    (iv) Identifier should not starts with digit
+          a) 123total  X
+          b) total123  √
+    (v) By mistake if we are using any other symbol like $ then we will get syntax error
+          a) cash = 10  √
+          b) ca$h =20   X
+    (vi) Identifiers are case sensitive. Of course Python language is case sensitive language.
+          a) total=10 ->  print(total) -> Output 10
+          b) TOTAL=999 -> print(TOTAL) -> Output 999
+    (vii) We cannot use Keywords or Reserved words as identifiers
+          a) def = 10  X
+          b) if = 20  X
+    (viii) There is no length limit for Python identifiers. But not recommended to use too lengthy identifiers
+    (ix) Blankspace are not allowed 
+          total cost = 10  X
+          totalcost = 20   √
+  Note :-
+    1. If identifier starts with _ symbol then it indicates that it is private
+    2. If identifier starts with __(two under score symbols) indicating that strongly private identifier
+    3.If the identifier starts and ends with two underscore symbols then the identifier is language defined special name,which is also known as magic methods
+    Eg: __add__
