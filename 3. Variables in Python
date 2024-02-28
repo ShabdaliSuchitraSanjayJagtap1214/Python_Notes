@@ -3,7 +3,7 @@ Defination :-
     (i) A variable is a name given to any storage area or memory location in a Python program.
     (ii) Data or Values can be stored in temporary storage space called variable.
     (iii) In simple words we can say that a variable is a container that contains some infomation and whenever we need that information we use the name of that container to access it.
-    (iv) Therefore, In order to declare variable there is no need of Datatypes so that's why we can say Python is Dynamically Typed Programming Language.
+    (iv) Therefore, In order to declare variable there is no need to specify any Datatypes so that's why we can say Python is Dynamically Typed Programming Language.
     (v) Variable comes with 3 things that is Name of the variable, Value of the variable, Address of the variable.
 Example :-
     a = 10
