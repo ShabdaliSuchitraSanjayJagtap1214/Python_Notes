@@ -1,0 +1,23 @@
+Keywords or Reserved Words in Python :-
+
+Defination :-
+    (i) In Python some words are reserved to represent some meaning or functionality. Such type of words are called Keywords or Reserved words.
+    (ii) Keywords or Reserved Words are used to define the syntax of the code.
+    (iii) Keywords or Reserved Words can not used as an Identifier, Function, Variable name.
+    (iv) All the Keywords or Reserved Words in Python are written in Lower Case expect True, False, None.
+    (v) All Reserved words in Python contain only alphabet symbols.
+
+There are 33 Keywords or Reserved Words available in Python they are :-
+     True,False,None
+     and,or,not,is
+     if,elif,else
+     while,for,break,continue,return,in,yield
+     try,except,finally,raise,assert
+     import,from,as,class,def,pass,global,nonlocal,lambda,del,with
+
+To know all Keywords or Reserved Words the syntax is :-
+    >>> import keyword
+    >>> keyword.kwlist
+        ['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 
+        'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 
+        'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
