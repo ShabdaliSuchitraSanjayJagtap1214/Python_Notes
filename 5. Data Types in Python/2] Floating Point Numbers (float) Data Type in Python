@@ -1,0 +1,17 @@
+Floating Point Numbers (float) Data Type in Python :-
+
+Defination :-
+    (i) Floating Point Numbers Data is basically your decimal values.
+       Eg: float - 1.1,1.2,1.3,------∞
+    (ii) We can use float data type to represent floating point values (decimal values)
+        Eg: f=1.234
+            type(f) 
+            Output -> float
+    (iii) We can also represent floating point values by using exponential form (scientific notation)
+         Eg: f=1.2e3
+         print(f) 
+         Output -> 1200.0 
+         Note :- instead of 'e' we can use 'E'. The main advantage of exponential form is we can represent big values in less memory.
+Note :-
+    We can represent int values in decimal, binary, octal and hexa decimal forms. But we can represent float values only 
+    by using decimal form.
