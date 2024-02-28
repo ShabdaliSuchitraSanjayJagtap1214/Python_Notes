@@ -1,0 +1,22 @@
+Data Types in Python :-
+
+Defination :- 
+    (i) Every variable is associated with a Data Types.
+    (ii) Data Type represent the type of data present inside a variable.
+    (iii) In Python we are not required to specify the Data Type explicitly. Based on value provided,the Data Type will be assigned automatically.Hence Python is Dynamically Typed Language.
+
+Python contains the following inbuilt Data Types :-
+1.Integers (int)
+2.Floating Point Numbers (float)
+3.complex
+4.String (str)
+5.List
+6.Tuple
+7.Dictionary (dict)
+8.Set
+9.Boolean (bool)
+10.bytes
+11.bytearray
+12.range
+13.frozenset
+14.None
