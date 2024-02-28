@@ -1,0 +1,19 @@
+Integers (int) Data Type in Python :-
+
+Defination :-
+    (i) We can use int data type to represent whole numbers (integral values).
+    (ii) Integer Data is basically your integer values.
+    (iii) Int - 1,2,3,------∞
+Eg :-
+    a = 10
+    type(a) 
+    Output -> int
+Note:
+    In Python2 we have long data type to represent very large integral values.But in Python3 there is no long type explicitly 
+    and we can represent long values also by using int type only.
+We can represent int values in the following ways:-
+    1. Decimal form
+    2. Binary form
+    3. Octal form
+    4. Hexa decimal form
+
