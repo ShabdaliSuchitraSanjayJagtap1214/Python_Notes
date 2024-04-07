@@ -1,7 +1,7 @@
 Complex Data Type in Python :-
 
 Defination :- 
-    (i)  We can use Complex data type to represent Real + Imaginary Part.
+    (i) We can use Complex data type to represent Real + Imaginary Part.
        Eg. 1 + 2j
     (ii) A complex number is of the form :
         Eg. a + bj  --->  j2 = -1  
