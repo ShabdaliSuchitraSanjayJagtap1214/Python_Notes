@@ -1,1 +1,23 @@
+String (str) Data Types in Python :-
+
+Defination :- 
+    (i) str represents String data type. Is used to store strings.
+    (ii) Python do not support Character it support String. (It treat every thing as a string in python).
+    (iii) Strings are immutable (Cannot Change).
+    (iv) A String is a sequence of characters enclosed within single quotes or double quotes.
+         s1='durga'
+         s1="durga"
+    (v) By using single quotes or double quotes we cannot represent multi line string literals.
+        s1="durga
+            soft"
+    (vi) For this requirement we should go for triple single quotes(''') or triple double quotes(""")
+         s1='''durga
+                soft'''
+         s1="""durga
+                soft"""
+    (vii) We can also use triple quotes to use single quote or double quote in our String.
+          ''' This is " character'''
+            ' This i " Character '
+    (viii) We can embed one string in another string
+           '''This "Python class very helpful" for java students'''
 
